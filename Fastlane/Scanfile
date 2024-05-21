@@ -1,7 +1,7 @@
 # For more information about this configuration visit
 # https://github.com/fastlane/scan#scanfile
 
-workspace "/Users/ksookdhew/Documents/GitHub/COS-730-Ass/COS 730/COS 730.xcodeproj/project.xcworkspace" 
+workspace "COS 730/COS 730.xcodeproj/project.xcworkspace" 
 scheme "COS 730"
 sdk "iphonesimulator"
 device "iPhone 14"
