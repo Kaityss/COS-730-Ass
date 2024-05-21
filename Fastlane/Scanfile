@@ -1,0 +1,11 @@
+# For more information about this configuration visit
+# https://github.com/fastlane/scan#scanfile
+
+workspace "COS 730/COS 730.xcodeproj/project.xcworkspace" 
+scheme "COS 730"
+sdk "iphonesimulator"
+device "iPhone 14"
+code_coverage true
+xcargs '-parallelizeTargets'
+prelaunch_simulator true
+derived_data_path "Build/"
