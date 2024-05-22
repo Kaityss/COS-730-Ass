@@ -18,6 +18,8 @@ and security
     <img width="500"  src="https://drive.google.com/uc?export=view&id=1RyA8oq8HRugf5sQH-StnJqOvUtrWEcDu" alt="Gitflow branching strategy">
 </p>
 
+## Project Management
+For project management, Agile methodology was employed, complemented by a Kanban board. This approach facilitated continuous delivery and improvement, allowing for effective adaptation throughout the development process. The Kanban board provided clear visibility of tasks, categorizing them into stages such as "To Do," "In Progress," and "Done." This ensured efficient tracking of work, enabling seamless collaboration and prioritization of tasks, ultimately streamlining the development workflow.
 
 ## Software architecture
 ### Model-View-Controller
