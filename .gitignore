@@ -1,9 +1,13 @@
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
-
+# fastlane
+Fastlane/report.xml
+Fastlane/test_output
 ## User settings
 xcuserdata/
+
+*GoogleService-Info.plist
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
@@ -71,6 +75,9 @@ Dependencies/
 .accio/
 
 # fastlane
+Fastlane/report.xml
+Fastlane/test_output
+
 #
 # It is recommended to not store the screenshots in the git repo.
 # Instead, use fastlane to re-generate the screenshots whenever they are needed.
@@ -88,3 +95,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+
+.DS_Store
