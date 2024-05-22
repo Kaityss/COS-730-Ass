@@ -1,16 +1,9 @@
 # COS-730-Ass
 
 ## Project Description
-BlackBerry Messenger (BBM) was an instant messaging application originally designed ex-
-clusively for BlackBerry devices. Launched in 2005 by BlackBerry Limited, BBM quickly
-became a hallmark of the BlackBerry experience, particularly popular among business users
-for its secure communication features.
+BlackBerry Messenger (BBM) was an instant messaging application originally designed exclusively for BlackBerry devices. Launched in 2005 by BlackBerry Limited, BBM quickly became a hallmark of the BlackBerry experience, particularly popular among business users for its secure communication features.
 
-Despite its initial success, BBM faced significant competition from other messaging services
-like WhatsApp and iMessage, leading to a decline in its user base. The service was known
-for its robust security features, real-time delivery and read receipts, and group chat function-
-alities. BBM’s use of PIN-based user identification provided an additional layer of privacy
-and security
+Despite its initial success, BBM faced significant competition from other messaging services like WhatsApp and iMessage, leading to a decline in its user base. The service was known for its robust security features, real-time delivery and read receipts, and group chat functionalities. BBM’s use of PIN-based user identification provided an additional layer of privacy and security
 
 ## Branching Strategy
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
