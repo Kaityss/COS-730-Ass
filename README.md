@@ -20,6 +20,8 @@ and security
 
 ## Project Management
 For project management, Agile methodology was employed, complemented by a Kanban board. This approach facilitated continuous delivery and improvement, allowing for effective adaptation throughout the development process. The Kanban board provided clear visibility of tasks, categorizing them into stages such as "To Do," "In Progress," and "Done." This ensured efficient tracking of work, enabling seamless collaboration and prioritization of tasks, ultimately streamlining the development workflow.
+![IC-simple-kanban-c](https://github.com/Kaityss/COS-730-Ass/assets/89077850/81252aa4-ee5b-402b-9825-cd11a39a7fa0)
+
 
 ## Software architecture
 ### Model-View-Controller
